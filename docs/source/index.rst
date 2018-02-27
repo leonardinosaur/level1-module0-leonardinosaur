@@ -3,20 +3,14 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to level1_mod0_dino's documentation!
+Welcome to Dino's Level 1 Module 0 Overview!
 ============================================
 
 Contents:
 
 .. toctree::
    :maxdepth: 2
-
-
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
-
+   
+   Concepts
+   Eclipse
+   Processing
